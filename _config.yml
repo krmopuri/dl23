@@ -7,7 +7,7 @@ Hence, it has become one of the most sough after learning courses in recent time
 building blocks required to realize the Deep Learning based solutions."
 course_semester: "Jan-May 2023"
 
-baseurl: "/dl" # the subpath of your site, e.g. /blog/
+baseurl: "/dl23" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"
